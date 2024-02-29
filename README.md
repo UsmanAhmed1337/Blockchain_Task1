@@ -15,5 +15,4 @@ This repository contains a simple implementation of a blockchain in Go.
 3. `git checkout dev`: Switches to my dev branch
 4. `git add .`: Added all changes to the staging area
 5. `git commit -m `: Commit changes to my local repo
-5. `git push origin dev`: Push the changes into the dev branch of the remote repo
-
+6. `git push origin dev`: Push the changes into the dev branch of the remote repo
